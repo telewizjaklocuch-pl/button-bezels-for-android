@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bezel Buttons</string>
+    <string name="service_description">Pokazuje animację przy krawędzi ekranu po naciśnięciu przycisków głośności i zasilania. Usługa tylko wykrywa naciśnięcia przycisków i nic nie zapisuje ani nie wysyła.</string>
+</resources>
